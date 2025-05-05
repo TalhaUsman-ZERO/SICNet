@@ -1,1 +1,1 @@
-# SIRSAM
+# SICNet
